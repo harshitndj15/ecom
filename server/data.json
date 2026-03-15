@@ -1,0 +1,24 @@
+{
+  "maincategory": [
+    {
+      "id": "5240",
+      "name": "Male",
+      "pic": "p1.jpg",
+      "status": true
+    }
+  ],
+  "subcategory": [],
+  "brand": [],
+  "product": [],
+  "testimonial": [],
+  "features": [],
+  "services": [],
+  "faq": [],
+  "settings": [],
+  "user": [],
+  "cart": [],
+  "wishlist": [],
+  "checkout": [],
+  "newsletter": [],
+  "contactus": []
+}
