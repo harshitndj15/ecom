@@ -6,7 +6,7 @@ import Homepage from "./Pages/Homepage";
 import AboutPage from "./Pages/AboutPage";
 import ShopPage from "./Pages/ShopPage";
 import ProductPage from "./Pages/ProductPage";
-import FeaturesPage from "./Pages/FeaturesPage";
+
 import ServicesPage from "./Pages/ServicesPage";
 import TestimonialPage from "./Pages/TestimonialPage";
 import FaqPage from "./Pages/FaqPage";
