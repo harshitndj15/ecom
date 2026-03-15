@@ -6,7 +6,7 @@ import Homepage from "./Pages/Homepage";
 import AboutPage from "./Pages/AboutPage";
 import ShopPage from "./Pages/ShopPage";
 import ProductPage from "./Pages/ProductPage";
-
+import FeaturesPage from "./Pages/FeaturesPage";
 import ServicesPage from "./Pages/ServicesPage";
 import TestimonialPage from "./Pages/TestimonialPage";
 import FaqPage from "./Pages/FaqPage";
@@ -23,7 +23,7 @@ export default function App() {
         <Route path="about" element={<AboutPage />} />
         <Route path="shop" element={<ShopPage />} />
         <Route path="product/:id" element={<ProductPage />} />
-        {/* <Route path="features" element={<FeaturesPage />} /> */}
+        <Route path="features" element={<FeaturesPage />} />
         <Route path="services" element={<ServicesPage />} />
         <Route path="testimonials" element={<TestimonialPage />} />
         <Route path="faq" element={<FaqPage />} />
